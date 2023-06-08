@@ -1,0 +1,50 @@
+.signin{
+  background-color:white;
+  height: auto;
+}
+
+.signup{
+  background-color: white;
+  height: 100vh;
+}
+
+.signinlogin_button{
+    width: 100%;
+    
+  }
+
+.signin_background{
+  background-image: url("./images/signin.jpg");
+  width: 100%;
+  height: 86vh;
+  background-size: 100%;
+}
+
+.register_background{
+ background-image: url("./images/visit.jpg");
+ background-size: cover;
+ height:100vh;
+ width: 100%;
+ 
+}
+
+.stroke{
+  height: auto;
+  border-left: 1px solid black;
+  color: black;
+}
+
+.bgcolor{
+  background-color: gray;
+  height: 100vh;
+  
+}
+
+/* dashbord */
+
+.dash{
+  margin-left: 50%;
+}
+/* .empdash{
+  margin-left: 100%;
+} */
